@@ -55,12 +55,18 @@ export default function AboutPage() {
               <div className="prose prose-lg mx-auto">
                 <h2 className="text-2xl font-semibold text-gray-800 mb-4 tracking-tight">Our Commitment</h2>
                 <p className="text-gray-600 text-justify leading-relaxed mb-6">
-                  We focus on customer needs, uphold high quality and innovative spirit, and are committed to becoming a trustworthy partner in the industry, providing strong support for enterprises' digital transformation and automation operations.
+                  We focus on customer needs, uphold high quality and innovative spirit, and are committed to becoming a trustworthy partner in the industry, providing strong support for enterprises&apos; digital transformation and automation operations.
                 </p>
               </div>
 
               <p className="text-lg text-gray-600 mb-8">
                 We&apos;re dedicated to providing cutting-edge technology solutions that empower businesses to achieve greater efficiency and success in their operations.
+              </p>
+
+              <p className="text-gray-600 text-lg leading-relaxed">
+                We&apos;re not just another IT company. We&apos;re your partner in digital transformation, 
+                specializing in enterprise mobility solutions that drive business growth. 
+                From rugged mobile devices to comprehensive EMM solutions, we&apos;ve got you covered.
               </p>
             </div>
           </div>

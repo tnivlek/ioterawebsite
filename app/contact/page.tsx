@@ -42,8 +42,9 @@ export default function ContactPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
               <div>
                 <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
-                <p className="text-gray-600 mb-6">
-                  Have questions about our products or services? We&apos;ll be happy to help.
+                <p className="text-gray-600 text-lg leading-relaxed">
+                  We&apos;re here to help you transform your business with our enterprise mobility solutions. 
+                  Get in touch with us today and let&apos;s discuss how we can help you achieve your goals.
                 </p>
                 <div className="space-y-4">
                   <div>
