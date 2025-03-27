@@ -41,7 +41,7 @@ export default function AboutPage() {
               <div className="prose prose-lg mx-auto">
                 <h2 className="text-2xl font-semibold text-gray-800 mb-4 tracking-tight">Our Story</h2>
                 <p className="text-gray-600 text-justify leading-relaxed mb-6">
-                  We are a professional retail and service integration company, established in 2018, focusing on retailing and distributing industrial handheld terminals and providing comprehensive technical support and after-sales services. We are committed to providing enterprise customers with efficient and stable industrial-grade equipment and solutions to help improve operational efficiency and data management capabilities.
+                  We are a professional retail and service integration company, established in 2018, focusing on retailing and distributing industrial handheld terminals and providing comprehensive technical support and after-sales services. We&apos;re committed to providing enterprise customers with efficient and stable industrial-grade equipment and solutions to help improve operational efficiency and data management capabilities.
                 </p>
               </div>
 
@@ -58,6 +58,10 @@ export default function AboutPage() {
                   We focus on customer needs, uphold high quality and innovative spirit, and are committed to becoming a trustworthy partner in the industry, providing strong support for enterprises' digital transformation and automation operations.
                 </p>
               </div>
+
+              <p className="text-lg text-gray-600 mb-8">
+                We&apos;re dedicated to providing cutting-edge technology solutions that empower businesses to achieve greater efficiency and success in their operations.
+              </p>
             </div>
           </div>
         </section>
